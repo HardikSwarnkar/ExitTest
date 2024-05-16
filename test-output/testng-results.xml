@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="20" total="21" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-16T06:04:02Z" name="Default suite" finished-at="2024-05-16T06:04:10Z" duration-ms="7508">
+    <groups>
+    </groups>
+    <test started-at="2024-05-16T06:04:02Z" name="Default test" finished-at="2024-05-16T06:04:10Z" duration-ms="7508">
+      <class name="Test.TestNG">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Test.TestNG@66bacdbc]" started-at="2024-05-16T11:34:02Z" name="setUp" finished-at="2024-05-16T11:34:05Z" duration-ms="2248" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPincode()[pri:12, instance:Test.TestNG@66bacdbc]" started-at="2024-05-16T11:34:05Z" name="testPincode" description="Verify the pincode is avinable or not" finished-at="2024-05-16T11:34:09Z" duration-ms="4806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPincode -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Test.TestNG@66bacdbc]" started-at="2024-05-16T11:34:09Z" name="afterMethod" finished-at="2024-05-16T11:34:09Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPincode status=SUCCESS method=TestNG.testPincode()[pri:12, instance:Test.TestNG@66bacdbc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TestNG@66bacdbc]" started-at="2024-05-16T11:34:09Z" name="tearDown" finished-at="2024-05-16T11:34:10Z" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

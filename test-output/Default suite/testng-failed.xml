@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Test.TestNG">
+        <methods>
+          <include name="setUp"/>
+          <include name="testPincode"/>
+          <include name="testSearchWithSpecialCharacters"/>
+          <include name="testHomepageLoad"/>
+          <include name="checkExecutionRequirement"/>
+          <include name="SortingCheck"/>
+          <include name="ProductFilter"/>
+          <include name="compareItems"/>
+          <include name="testLogoVisibilityAndClickability"/>
+          <include name="testProductPagination"/>
+          <include name="addTocart"/>
+          <include name="LoginTest"/>
+          <include name="afterMethod"/>
+          <include name="testContactPageAccessibility"/>
+          <include name="tearDown"/>
+          <include name="testFooterLinks"/>
+          <include name="RemovecartItem"/>
+          <include name="ProductColorTest"/>
+          <include name="testEmptyCartMessage"/>
+          <include name="signUpTest"/>
+          <include name="cartItemCount"/>
+          <include name="brandFilterCheck"/>
+          <include name="testTermsAndConditions"/>
+        </methods>
+      </class> <!-- Test.TestNG -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,235 @@
+[INFO ] 2024-05-15 11:36:49.476 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-15 11:59:46.929 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 11:59:48.613 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 12:00:08.016 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 12:00:10.600 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 12:00:30.925 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 12:00:49.106 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-15 12:00:50.241 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 12:00:53.634 [main] TestNG - Pagination to next page functionality is validated.
+[INFO ] 2024-05-15 12:01:10.056 [main] TestNG - Search with special characters handled correctly.
+[INFO ] 2024-05-15 12:01:13.567 [main] TestNG - Empty cart message is correctly displayed.
+[INFO ] 2024-05-15 13:14:56.207 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 13:15:00.028 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 13:15:20.780 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 13:15:22.627 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 13:15:24.890 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 13:15:26.999 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 13:15:28.420 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 13:15:36.613 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 13:15:43.872 [main] TestNG - All the sorting functions
+[INFO ] 2024-05-15 13:15:48.002 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 13:15:54.906 [main] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 13:16:04.390 [main] TestNG - Verify SignUp functionality
+[INFO ] 2024-05-15 13:16:08.423 [main] TestNG - Search with special characters handled correctly.
+[INFO ] 2024-05-15 13:16:12.290 [main] TestNG - Empty cart message is correctly displayed.
+[INFO ] 2024-05-15 13:16:16.852 [main] TestNG - Verify the footer links are correct .
+[INFO ] 2024-05-15 13:16:19.634 [main] TestNG - Verify that the contact page is accessible.
+[INFO ] 2024-05-15 13:16:23.821 [main] TestNG - Verify Terms and Conditions page is up to date.
+[INFO ] 2024-05-15 14:14:44.445 [main] TestNG - Verify Login functionality
+[INFO ] 2024-05-15 14:15:15.669 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 14:15:36.396 [main] TestNG - Verify Login functionality
+[INFO ] 2024-05-15 14:33:34.418 [main] TestNG - Verify Login functionality
+[INFO ] 2024-05-15 15:42:41.587 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 15:42:46.023 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 15:43:06.451 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 15:43:08.372 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 15:43:10.602 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 15:43:12.712 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 15:43:33.094 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 15:43:45.370 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 15:43:52.308 [main] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 16:02:25.639 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 16:02:28.548 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 16:02:49.005 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 16:02:50.778 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 16:02:53.035 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 16:02:55.159 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 16:02:56.729 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 16:03:09.120 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 16:03:15.880 [main] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 16:05:24.961 [TestNG-tests-1] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 16:05:30.091 [TestNG-tests-1] TestNG - Product details Test
+[INFO ] 2024-05-15 16:05:32.720 [TestNG-tests-2] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 16:05:33.260 [TestNG-tests-3] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 16:05:36.334 [TestNG-tests-3] TestNG - Product details Test
+[INFO ] 2024-05-15 16:05:38.318 [TestNG-tests-2] TestNG - Product details Test
+[INFO ] 2024-05-15 16:05:51.713 [TestNG-tests-1] TestNG - Product details Test
+[INFO ] 2024-05-15 16:05:53.616 [TestNG-tests-1] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 16:05:55.985 [TestNG-tests-1] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 16:05:56.701 [TestNG-tests-3] TestNG - Product details Test
+[INFO ] 2024-05-15 16:05:58.994 [TestNG-tests-3] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 16:05:59.153 [TestNG-tests-2] TestNG - Product details Test
+[INFO ] 2024-05-15 16:06:01.682 [TestNG-tests-2] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 16:06:01.712 [TestNG-tests-3] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 16:06:04.538 [TestNG-tests-2] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 16:06:06.833 [TestNG-tests-2] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 16:06:07.578 [TestNG-tests-2] TestNG - Remove cart Item
+[INFO ] 2024-05-15 16:06:19.261 [TestNG-tests-2] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 16:06:27.153 [TestNG-tests-2] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 16:06:58.871 [TestNG-tests-2] TestNG - Verify the footer links are correct .
+[INFO ] 2024-05-15 16:07:01.013 [TestNG-tests-1] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 16:07:05.789 [TestNG-tests-2] TestNG - Verify that the contact page is accessible.
+[INFO ] 2024-05-15 16:07:06.723 [TestNG-tests-3] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 16:07:11.739 [TestNG-tests-1] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 16:07:17.245 [TestNG-tests-3] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 16:07:21.272 [TestNG-tests-2] TestNG - Verify Terms and Conditions page is up to date.
+[INFO ] 2024-05-15 16:07:29.990 [TestNG-tests-2] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 16:07:31.349 [TestNG-tests-3] TestNG - Verify SignUp functionality
+[INFO ] 2024-05-15 16:07:35.064 [TestNG-tests-2] TestNG - Product details Test
+[INFO ] 2024-05-15 16:07:36.916 [TestNG-tests-3] TestNG - Search with special characters handled correctly.
+[INFO ] 2024-05-15 16:07:56.121 [TestNG-tests-2] TestNG - Product details Test
+[INFO ] 2024-05-15 16:08:00.238 [TestNG-tests-2] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 16:08:00.603 [TestNG-tests-1] TestNG - Verify the footer links are correct .
+[INFO ] 2024-05-15 16:08:03.491 [TestNG-tests-2] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 16:08:05.839 [TestNG-tests-1] TestNG - Verify that the contact page is accessible.
+[INFO ] 2024-05-15 16:08:06.207 [TestNG-tests-2] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 16:08:06.494 [TestNG-tests-3] TestNG - Verify the footer links are correct .
+[INFO ] 2024-05-15 16:08:08.862 [TestNG-tests-2] TestNG - Remove cart Item
+[INFO ] 2024-05-15 16:08:11.537 [TestNG-tests-1] TestNG - Verify Terms and Conditions page is up to date.
+[INFO ] 2024-05-15 16:08:11.672 [TestNG-tests-3] TestNG - Verify that the contact page is accessible.
+[INFO ] 2024-05-15 16:08:16.676 [TestNG-tests-3] TestNG - Verify Terms and Conditions page is up to date.
+[INFO ] 2024-05-15 16:08:26.670 [TestNG-tests-2] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 16:08:36.449 [TestNG-tests-2] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 16:14:15.994 [main] TestNG - Verify Login functionality
+[INFO ] 2024-05-15 16:14:39.495 [main] TestNG - Verify Login functionality
+[INFO ] 2024-05-15 16:15:59.297 [main] TestNG - Verify SignUp functionality
+[INFO ] 2024-05-15 16:16:44.277 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 16:16:46.405 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 16:19:23.467 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 16:19:25.547 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 16:20:19.187 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 16:20:21.225 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 16:20:23.444 [main] TestNG - Price Filter check at homepage.
+[INFO ] 2024-05-15 16:20:23.448 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 16:20:24.902 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 16:20:27.125 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 16:21:25.467 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 16:21:27.376 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 16:21:29.548 [main] TestNG - Price Filter check at homepage.
+[INFO ] 2024-05-15 16:21:29.548 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 16:21:30.903 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 16:21:33.110 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 16:21:35.272 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 16:21:36.756 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 16:21:46.419 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-15 16:21:47.380 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 16:21:50.194 [main] TestNG - Pagination to next page functionality is validated.
+[INFO ] 2024-05-15 16:21:54.045 [main] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 16:22:00.049 [main] TestNG - Verify Login functionality
+[INFO ] 2024-05-15 16:22:05.774 [main] TestNG - Verify SignUp functionality
+[INFO ] 2024-05-15 16:22:08.059 [main] TestNG - Search with special characters handled correctly.
+[INFO ] 2024-05-15 16:22:13.397 [main] TestNG - Empty cart message is correctly displayed.
+[INFO ] 2024-05-15 16:22:20.868 [main] TestNG - Verify the footer links are correct .
+[INFO ] 2024-05-15 16:22:22.796 [main] TestNG - Verify that the contact page is accessible.
+[INFO ] 2024-05-15 16:22:26.515 [main] TestNG - Verify Terms and Conditions page is up to date.
+[INFO ] 2024-05-15 16:43:49.237 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 16:44:10.138 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:16:10.174 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:16:11.079 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:17:08.644 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:21:17.838 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 17:21:27.007 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:21:31.941 [main] TestNG - Price Filter check at homepage.
+[INFO ] 2024-05-15 17:21:31.952 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:21:37.005 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 17:21:40.097 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 17:21:42.616 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 17:21:45.419 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 17:22:08.904 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:23:43.105 [main] TestNG - Verify Terms and Conditions page is up to date.
+[INFO ] 2024-05-15 17:24:24.028 [main] TestNG - Verify Terms and Conditions page is up to date.
+[INFO ] 2024-05-15 17:25:33.088 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 17:25:46.307 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:25:51.439 [main] TestNG - Price Filter check at homepage.
+[INFO ] 2024-05-15 17:25:51.443 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:25:55.855 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 17:25:58.719 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 17:26:00.973 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 17:26:02.889 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 17:26:44.954 [main] TestNG - All the sorting functions
+[INFO ] 2024-05-15 17:26:51.578 [main] TestNG - Logo is visible and clickable, navigates to homepage successfully.
+[INFO ] 2024-05-15 17:26:54.867 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 17:27:01.900 [main] TestNG - Pagination to next page functionality is validated.
+[INFO ] 2024-05-15 17:27:08.607 [main] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 17:27:20.067 [main] TestNG - Verify Login functionality
+[INFO ] 2024-05-15 17:27:28.705 [main] TestNG - Verify SignUp functionality
+[INFO ] 2024-05-15 17:27:34.396 [main] TestNG - Search with special characters handled correctly.
+[INFO ] 2024-05-15 17:27:39.691 [main] TestNG - Empty cart message is correctly displayed.
+[INFO ] 2024-05-15 17:27:46.199 [main] TestNG - Verify the footer links are correct .
+[INFO ] 2024-05-15 17:27:53.451 [main] TestNG - Verify that the contact page is accessible.
+[INFO ] 2024-05-15 17:27:58.910 [main] TestNG - Verify Terms and Conditions page is up to date.
+[INFO ] 2024-05-15 17:31:53.931 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:32:48.123 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:33:14.440 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 17:33:18.504 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:33:23.160 [main] TestNG - Price Filter check at homepage.
+[INFO ] 2024-05-15 17:33:23.163 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:33:25.667 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 17:33:28.344 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 17:33:30.604 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 17:33:32.264 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 17:33:38.172 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:33:42.673 [main] TestNG - Compare 2 laptops
+[INFO ] 2024-05-15 17:33:52.787 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 17:34:01.244 [main] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 17:34:09.028 [main] TestNG - Verify Login functionality
+[INFO ] 2024-05-15 17:34:16.417 [main] TestNG - Verify SignUp functionality
+[INFO ] 2024-05-15 17:34:20.245 [main] TestNG - Search with special characters handled correctly.
+[INFO ] 2024-05-15 17:34:25.972 [main] TestNG - Empty cart message is correctly displayed.
+[INFO ] 2024-05-15 17:34:30.793 [main] TestNG - Verify the footer links are correct .
+[INFO ] 2024-05-15 17:34:34.992 [main] TestNG - Verify that the contact page is accessible.
+[INFO ] 2024-05-15 17:34:39.103 [main] TestNG - Verify Terms and Conditions page is up to date.
+[INFO ] 2024-05-15 17:40:28.119 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 17:40:32.415 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:40:35.540 [main] TestNG - Price Filter check at homepage.
+[INFO ] 2024-05-15 17:40:35.547 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:40:37.624 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 17:40:40.220 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 17:40:42.447 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 17:40:44.238 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 17:40:50.613 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:40:55.025 [main] TestNG - Compare 2 laptops
+[INFO ] 2024-05-15 17:42:39.178 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 17:42:43.045 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:42:46.492 [main] TestNG - Price Filter check at homepage.
+[INFO ] 2024-05-15 17:42:46.497 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:42:48.341 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 17:42:50.683 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 17:42:52.896 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 17:42:54.575 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 17:43:00.796 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:43:05.207 [main] TestNG - Compare 2 laptops
+[INFO ] 2024-05-15 17:43:08.602 [main] TestNG - All the sorting functions
+[INFO ] 2024-05-15 17:43:13.907 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 17:43:21.875 [main] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 17:43:35.536 [main] TestNG - Search with special characters handled correctly.
+[INFO ] 2024-05-15 17:43:39.098 [main] TestNG - Empty cart message is correctly displayed.
+[INFO ] 2024-05-15 17:43:45.113 [main] TestNG - Verify the footer links are correct .
+[INFO ] 2024-05-15 17:43:48.362 [main] TestNG - Verify that the contact page is accessible.
+[INFO ] 2024-05-15 17:43:51.914 [main] TestNG - Verify Terms and Conditions page is up to date.
+[INFO ] 2024-05-15 17:46:53.581 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 17:46:58.372 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:47:00.717 [main] TestNG - Price Filter check at homepage.
+[INFO ] 2024-05-15 17:47:00.727 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:47:02.573 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 17:47:04.781 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 17:47:06.915 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 17:47:08.379 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 17:47:14.489 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:47:18.787 [main] TestNG - Compare 2 laptops
+[INFO ] 2024-05-15 17:47:24.860 [main] TestNG - All the sorting functions
+[INFO ] 2024-05-15 17:47:29.623 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 17:47:36.204 [main] TestNG - Verify the pincode is avinable or not
+[INFO ] 2024-05-15 17:48:47.295 [main] TestNG - Flipkart SearchTest
+[INFO ] 2024-05-15 17:48:51.023 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:48:53.519 [main] TestNG - Price Filter check at homepage.
+[INFO ] 2024-05-15 17:48:53.530 [main] TestNG - Product details Test
+[INFO ] 2024-05-15 17:48:55.849 [main] TestNG - Navigated directly to the product page.
+[INFO ] 2024-05-15 17:48:58.660 [main] TestNG - Applying filter on product page.
+[INFO ] 2024-05-15 17:49:01.050 [main] TestNG - Adding product to cart.
+[INFO ] 2024-05-15 17:49:01.731 [main] TestNG - Remove cart Item
+[INFO ] 2024-05-15 17:49:07.991 [main] TestNG - brandFilter Check in homepage
+[INFO ] 2024-05-15 17:49:12.848 [main] TestNG - Compare 2 laptops
+[INFO ] 2024-05-15 17:49:19.717 [main] TestNG - Homepage loads correctly with all key components visible.
+[INFO ] 2024-05-15 17:49:25.980 [main] TestNG - Verify the pincode is avinable or not
